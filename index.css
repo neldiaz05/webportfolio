@@ -1,0 +1,80 @@
+#landing {
+	background-color: #00233b !important;
+	flex-direction: column !important;
+
+}
+
+#body {
+	background-color: #00233b;
+}
+
+#logo {
+	font-weight: bold;
+	color: yellow;
+}
+
+#nav {
+	background-color: blueviolet;
+}
+
+.nav-link {
+	color: white;
+}
+
+#about {
+	color: white;
+}
+
+.highlight {
+	color: yellow;
+}
+
+#title-name {
+	color: yellow;
+}
+
+#fullstack-title {
+	color: violet;
+	font-family: cursive;
+}
+
+p {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: black;
+}
+
+#frontend {
+	color: yellow;
+}
+
+#backend {
+	color: yellow;
+}
+
+h5 {
+	color: yellow;
+	font-weight: bolder;
+}
+
+#tools {
+	background-color: #00233b;
+}
+
+#contact {
+	background-color: antiquewhite;
+}
+
+#google-map {
+	size: ;
+}
+
+figcaption {
+	padding-right:160px !important;
+}
